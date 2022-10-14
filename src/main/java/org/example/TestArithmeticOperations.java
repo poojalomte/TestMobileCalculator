@@ -51,6 +51,8 @@ public class TestArithmeticOperations {
 		Thread.sleep(3000);
 
 		driver.quit();
+		
+		
 	}
 
 	private static void testMultiplyArithmaticOperaton(AndroidDriver driver) throws InterruptedException {
